@@ -1,0 +1,6 @@
+"variable","label","description","source","source2"
+"leaid","Local education agency identification number (NCES)","None","Common Core of Data",""
+"lea_name","Local education agency name","Name of the local education agency (school district)","Common Core of Data",""
+"city_location","City of location","None","Common Core of Data",""
+"agency_type","Agency type","None","Common Core of Data",""
+"enrollment","Student enrollment","None","Common Core of Data",""
